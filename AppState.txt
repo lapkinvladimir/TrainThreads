@@ -1,0 +1,2571 @@
+Locomotive #2:
+  Maximum number of wagons: 15
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 50
+  Name: BBB_LOCOMOTIVE_222
+  Base station: Kowalewo Pomorskie Miasto
+  Source station: 
+  Destination station: Jurkowo Wegorzewskie
+  Speed: 53.906645565799316 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-06-1975
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-06-1975
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-06-1975
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-06-1975
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-06-1975
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-06-1975
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-06-1975
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-06-1975
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-06-1975
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-06-1975
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C]
+Locomotive #3:
+  Maximum number of wagons: 100
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 75
+  Name: CCC_LOCOMOTIVE_333
+  Base station: Ostrowite k. Golubia
+  Source station: 
+  Destination station: Korzybie
+  Speed: 74.36932314054057 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 70 kg
+  Added wagons: 
+[Gas car #1:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 10 kg
+  Added gas weight: 100 kg
+  Maximum weight: 500 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-11-1965
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #2:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 10 kg
+  Added gas weight: 100 kg
+  Maximum weight: 500 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-11-1965
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #3:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 10 kg
+  Added gas weight: 100 kg
+  Maximum weight: 500 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-11-1965
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #4:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 10 kg
+  Added gas weight: 100 kg
+  Maximum weight: 500 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-11-1965
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #5:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 10 kg
+  Added gas weight: 100 kg
+  Maximum weight: 500 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-11-1965
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #6:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 10 kg
+  Added gas weight: 100 kg
+  Maximum weight: 500 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-11-1965
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #7:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 10 kg
+  Added gas weight: 100 kg
+  Maximum weight: 500 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-11-1965
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C]
+Locomotive #12:
+  Maximum number of wagons: 90
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 35
+  Name: LLL_LOCOMOTIVE_121212
+  Base station: Kosice Predmestie
+  Source station: 
+  Destination station: Kosice - Moldavska cesta
+  Speed: 36.65959475484253 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Restaurant car #1
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-12-1995
+  Condition: ok
+  Maximum load weight: 200 kg
+  Added weight: 40 kg
+  Current weight: 0 kg, Restaurant car #2
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-12-1995
+  Condition: ok
+  Maximum load weight: 200 kg
+  Added weight: 40 kg
+  Current weight: 0 kg, Restaurant car #3
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-12-1995
+  Condition: ok
+  Maximum load weight: 200 kg
+  Added weight: 40 kg
+  Current weight: 0 kg, Restaurant car #4
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-12-1995
+  Condition: ok
+  Maximum load weight: 200 kg
+  Added weight: 40 kg
+  Current weight: 0 kg, Restaurant car #5
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-12-1995
+  Condition: ok
+  Maximum load weight: 200 kg
+  Added weight: 40 kg
+  Current weight: 0 kg, Restaurant car #6
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-12-1995
+  Condition: ok
+  Maximum load weight: 200 kg
+  Added weight: 40 kg
+  Current weight: 0 kg, Restaurant car #7
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-12-1995
+  Condition: ok
+  Maximum load weight: 200 kg
+  Added weight: 40 kg
+  Current weight: 0 kg]
+Locomotive #19:
+  Maximum number of wagons: 20
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 80
+  Name: SSS_LOCOMOTIVE_888
+  Base station: Dnipro
+  Source station: 
+  Destination station: Kosice - Moldavska
+  Speed: 86.07569693110024 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Baggage car #10:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 24
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 19-09-1955
+  Condition: ok, Baggage car #11:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 24
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 19-09-1955
+  Condition: ok, Baggage car #12:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 24
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 19-09-1955
+  Condition: ok, Baggage car #13:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 24
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 19-09-1955
+  Condition: ok, Baggage car #14:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 24
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 19-09-1955
+  Condition: ok, Baggage car #15:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 24
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 19-09-1955
+  Condition: ok, Baggage car #16:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 24
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 19-09-1955
+  Condition: ok]
+Locomotive #6:
+  Maximum number of wagons: 80
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 30
+  Name: FFF_LOCOMOTIVE_666
+  Base station: Chelmoniec
+  Source station: 
+  Destination station: Lviv
+  Speed: 27.362405061722615 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 210 kg
+  Added wagons: 
+[Explosive car #1
+  Danger level: 0
+  Current weight: 35 kg
+  Maximum amount: 500 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 05-06-1967
+  Condition: ok, Explosive car #2
+  Danger level: 0
+  Current weight: 35 kg
+  Maximum amount: 500 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 05-06-1967
+  Condition: ok, Explosive car #3
+  Danger level: 0
+  Current weight: 35 kg
+  Maximum amount: 500 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 05-06-1967
+  Condition: ok, Explosive car #4
+  Danger level: 0
+  Current weight: 35 kg
+  Maximum amount: 500 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 05-06-1967
+  Condition: ok, Explosive car #5
+  Danger level: 0
+  Current weight: 35 kg
+  Maximum amount: 500 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 05-06-1967
+  Condition: ok, Explosive car #6
+  Danger level: 0
+  Current weight: 35 kg
+  Maximum amount: 500 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 05-06-1967
+  Condition: ok]
+Locomotive #4:
+  Maximum number of wagons: 30
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 100
+  Name: DDD_LOCOMOTIVE_444
+  Base station: Golub-Dobrzyn
+  Source station: 
+  Destination station: Jonkowo
+  Speed: 100.60194593215205 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Liquid car #1:
+  Liquid type: standard
+  Level of danger: 0
+  Current amount of liquid: 15 liters
+  Maximum amount of liquid: 100 liters
+  Added liters 100 liters
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-03-1984
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Liquid car #2:
+  Liquid type: standard
+  Level of danger: 0
+  Current amount of liquid: 15 liters
+  Maximum amount of liquid: 100 liters
+  Added liters 100 liters
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-03-1984
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Liquid car #3:
+  Liquid type: standard
+  Level of danger: 0
+  Current amount of liquid: 15 liters
+  Maximum amount of liquid: 100 liters
+  Added liters 100 liters
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-03-1984
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Liquid car #4:
+  Liquid type: standard
+  Level of danger: 0
+  Current amount of liquid: 15 liters
+  Maximum amount of liquid: 100 liters
+  Added liters 100 liters
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-03-1984
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Liquid car #5:
+  Liquid type: standard
+  Level of danger: 0
+  Current amount of liquid: 15 liters
+  Maximum amount of liquid: 100 liters
+  Added liters 100 liters
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-03-1984
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Liquid car #6:
+  Liquid type: standard
+  Level of danger: 0
+  Current amount of liquid: 15 liters
+  Maximum amount of liquid: 100 liters
+  Added liters 100 liters
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-03-1984
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C]
+Locomotive #20:
+  Maximum number of wagons: 40
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 90
+  Name: TTT_LOCOMOTIVE_999
+  Base station: Skalite
+  Source station: 
+  Destination station: Kosice - KVP
+  Speed: 87.42999270558391 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Passenger car #8:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 31-12-2001
+  Condition: ok
+  Mails in the car: 3
+1 letter: 1
+2 letter: 2
+3 letter: 3
+, Passenger car #9:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 31-12-2001
+  Condition: ok
+  Mails in the car: 3
+1 letter: 1
+2 letter: 2
+3 letter: 3
+, Passenger car #10:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 31-12-2001
+  Condition: ok
+  Mails in the car: 3
+1 letter: 1
+2 letter: 2
+3 letter: 3
+, Passenger car #11:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 31-12-2001
+  Condition: ok
+  Mails in the car: 3
+1 letter: 1
+2 letter: 2
+3 letter: 3
+, Passenger car #12:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 31-12-2001
+  Condition: ok
+  Mails in the car: 3
+1 letter: 1
+2 letter: 2
+3 letter: 3
+, Passenger car #13:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 31-12-2001
+  Condition: ok
+  Mails in the car: 3
+1 letter: 1
+2 letter: 2
+3 letter: 3
+, Passenger car #14:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 31-12-2001
+  Condition: ok
+  Mails in the car: 3
+1 letter: 1
+2 letter: 2
+3 letter: 3
+, Passenger car #15:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 31-12-2001
+  Condition: ok
+  Mails in the car: 3
+1 letter: 1
+2 letter: 2
+3 letter: 3
+]
+Locomotive #24:
+  Maximum number of wagons: 35
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 85
+  Name: XXX_LOCOMOTIVE_1313
+  Base station: Kosice - KVP
+  Source station: 
+  Destination station: Poprad zastavka
+  Speed: 78.73715944261104 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 600 kg
+  Added wagons: 
+[Refrigerated car #13:
+  Current weight: 75 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2005
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #14:
+  Current weight: 75 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2005
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #15:
+  Current weight: 75 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2005
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #16:
+  Current weight: 75 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2005
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #17:
+  Current weight: 75 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2005
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #18:
+  Current weight: 75 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2005
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #19:
+  Current weight: 75 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2005
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #20:
+  Current weight: 75 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2005
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C]
+Locomotive #7:
+  Maximum number of wagons: 20
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 55
+  Name: GGG_LOCOMOTIVE_777
+  Base station: Gdynia Glowna
+  Source station: 
+  Destination station: Ternopil
+  Speed: 54.40148508378859 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Cargo car #1
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 0 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 11-09-1985
+  Condition: ok, Cargo car #2
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 0 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 11-09-1985
+  Condition: ok, Cargo car #3
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 0 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 11-09-1985
+  Condition: ok, Cargo car #4
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 0 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 11-09-1985
+  Condition: ok, Cargo car #5
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 0 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 11-09-1985
+  Condition: ok, Cargo car #6
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 0 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 11-09-1985
+  Condition: ok]
+Locomotive #21:
+  Maximum number of wagons: 55
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 70
+  Name: UUU_LOCOMOTIVE_1010
+  Base station: Zakopane Polana Szymoszkowa
+  Source station: 
+  Destination station: Prerov
+  Speed: 61.40440790046106 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 375 kg
+  Added wagons: 
+[Liquid car #7:
+  Liquid type: standard
+  Level of danger: 0
+  Current amount of liquid: 35 liters
+  Maximum amount of liquid: 500 liters
+  Added liters 0 liters
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-08-1969
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Liquid car #8:
+  Liquid type: standard
+  Level of danger: 0
+  Current amount of liquid: 35 liters
+  Maximum amount of liquid: 500 liters
+  Added liters 0 liters
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-08-1969
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Liquid car #9:
+  Liquid type: standard
+  Level of danger: 0
+  Current amount of liquid: 35 liters
+  Maximum amount of liquid: 500 liters
+  Added liters 0 liters
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-08-1969
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Liquid car #10:
+  Liquid type: standard
+  Level of danger: 0
+  Current amount of liquid: 35 liters
+  Maximum amount of liquid: 500 liters
+  Added liters 0 liters
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-08-1969
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Liquid car #11:
+  Liquid type: standard
+  Level of danger: 0
+  Current amount of liquid: 35 liters
+  Maximum amount of liquid: 500 liters
+  Added liters 0 liters
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-08-1969
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Liquid car #12:
+  Liquid type: standard
+  Level of danger: 0
+  Current amount of liquid: 35 liters
+  Maximum amount of liquid: 500 liters
+  Added liters 0 liters
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 15-08-1969
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Restaurant car #8
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 28-02-1987
+  Condition: ok
+  Maximum load weight: 100 kg
+  Added weight: 0 kg
+  Current weight: 75 kg, Restaurant car #9
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 28-02-1987
+  Condition: ok
+  Maximum load weight: 100 kg
+  Added weight: 0 kg
+  Current weight: 75 kg, Restaurant car #10
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 28-02-1987
+  Condition: ok
+  Maximum load weight: 100 kg
+  Added weight: 0 kg
+  Current weight: 75 kg, Restaurant car #11
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 28-02-1987
+  Condition: ok
+  Maximum load weight: 100 kg
+  Added weight: 0 kg
+  Current weight: 75 kg, Restaurant car #12
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 28-02-1987
+  Condition: ok
+  Maximum load weight: 100 kg
+  Added weight: 0 kg
+  Current weight: 75 kg]
+Locomotive #9:
+  Maximum number of wagons: 45
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 105
+  Name: III_LOCOMOTIVE_999
+  Base station: Tolniki Wielkie
+  Source station: 
+  Destination station: Uzhhorod
+  Speed: 101.82748335981002 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Baggage car #1:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 10
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 14-05-1957
+  Condition: ok, Baggage car #2:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 10
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 14-05-1957
+  Condition: ok, Baggage car #3:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 10
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 14-05-1957
+  Condition: ok, Baggage car #4:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 10
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 14-05-1957
+  Condition: ok, Baggage car #5:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 10
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 14-05-1957
+  Condition: ok, Baggage car #6:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 10
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 14-05-1957
+  Condition: ok, Baggage car #7:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 10
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 14-05-1957
+  Condition: ok, Baggage car #8:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 10
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 14-05-1957
+  Condition: ok, Baggage car #9:
+  Current number of bags: 0
+  Maximum number of bags: 200
+  Added number of baggage: 10
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 14-05-1957
+  Condition: ok]
+Locomotive #14:
+  Maximum number of wagons: 75
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 85
+  Name: NNN_LOCOMOTIVE_141414
+  Base station: Zilina
+  Source station: 
+  Destination station: Rzeszow
+  Speed: 97.93267214802127 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-10-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-10-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-10-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-10-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-10-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-10-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-10-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-10-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Cargo car #1:
+  Maximum weight: 0 kg
+  Current weight: 0 kg
+  Added cargo weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 27-10-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C]
+Locomotive #8:
+  Maximum number of wagons: 35
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 80
+  Name: HHH_LOCOMOTIVE_888
+  Base station: Lankiejmy
+  Source station: 
+  Destination station: Zakopane
+  Speed: 86.49744103904837 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Toxic car #1
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 22-03-1992
+  Condition: ok
+  Current toxic weight: 70 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false, Toxic car #2
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 22-03-1992
+  Condition: ok
+  Current toxic weight: 70 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false, Toxic car #3
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 22-03-1992
+  Condition: ok
+  Current toxic weight: 70 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false, Toxic car #4
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 22-03-1992
+  Condition: ok
+  Current toxic weight: 70 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false, Toxic car #5
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 22-03-1992
+  Condition: ok
+  Current toxic weight: 70 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false, Toxic car #6
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 22-03-1992
+  Condition: ok
+  Current toxic weight: 70 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false]
+Locomotive #10:
+  Maximum number of wagons: 25
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 130
+  Name: JJJ_LOCOMOTIVE_101010
+  Base station: Rajec Poduchowny
+  Source station: 
+  Destination station: Koszalin
+  Speed: 136.55183781854961 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Passenger car #1:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 30-07-1974
+  Condition: ok
+  Passengers in the car: 
+, Passenger car #2:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 30-07-1974
+  Condition: ok
+  Passengers in the car: 
+, Passenger car #3:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 30-07-1974
+  Condition: ok
+  Passengers in the car: 
+, Passenger car #4:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 30-07-1974
+  Condition: ok
+  Passengers in the car: 
+, Passenger car #5:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 30-07-1974
+  Condition: ok
+  Passengers in the car: 
+, Passenger car #6:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 30-07-1974
+  Condition: ok
+  Passengers in the car: 
+, Passenger car #7:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 30-07-1974
+  Condition: ok
+  Passengers in the car: 
+, Passenger car #8:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 30-07-1974
+  Condition: ok
+  Passengers in the car: 
+]
+Locomotive #18:
+  Maximum number of wagons: 75
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 65
+  Name: RRR_LOCOMOTIVE_777
+  Base station: Lodz
+  Source station: 
+  Destination station: Poprad-Tatry
+  Speed: 67.30791858803366 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 245 kg
+  Added wagons: 
+[Refrigerated car #6:
+  Current weight: 35 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-07-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #7:
+  Current weight: 35 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-07-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #8:
+  Current weight: 35 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-07-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #9:
+  Current weight: 35 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-07-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #10:
+  Current weight: 35 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-07-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #11:
+  Current weight: 35 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-07-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #12:
+  Current weight: 35 kg
+  Added weight: 0 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 23-07-1978
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C]
+Locomotive #25:
+  Maximum number of wagons: 50
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 95
+  Name: YYY_LOCOMOTIVE_1414
+  Base station: Trnava
+  Source station: 
+  Destination station: Stara Lubovna
+  Speed: 110.33513535402977 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Cargo car #14
+  Liquid type: standard
+  Tank capacity: 200 liters
+  Current amount of liquid: 0 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 24-07-1973
+  Condition: ok, Cargo car #15
+  Liquid type: standard
+  Tank capacity: 200 liters
+  Current amount of liquid: 0 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 24-07-1973
+  Condition: ok, Cargo car #16
+  Liquid type: standard
+  Tank capacity: 200 liters
+  Current amount of liquid: 0 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 24-07-1973
+  Condition: ok, Cargo car #17
+  Liquid type: standard
+  Tank capacity: 200 liters
+  Current amount of liquid: 0 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 24-07-1973
+  Condition: ok, Cargo car #18
+  Liquid type: standard
+  Tank capacity: 200 liters
+  Current amount of liquid: 0 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 24-07-1973
+  Condition: ok, Cargo car #19
+  Liquid type: standard
+  Tank capacity: 200 liters
+  Current amount of liquid: 0 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 24-07-1973
+  Condition: ok]
+Locomotive #16:
+  Maximum number of wagons: 50
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 135
+  Name: PPP_LOCOMOTIVE_161616
+  Base station: Stryi
+  Source station: 
+  Destination station: Zakopane Budzowski N.
+  Speed: 143.13282149318354 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Toxic car #7
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1985
+  Condition: ok
+  Current toxic weight: 25 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false, Toxic car #8
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1985
+  Condition: ok
+  Current toxic weight: 25 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false, Toxic car #9
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1985
+  Condition: ok
+  Current toxic weight: 25 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false, Toxic car #10
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1985
+  Condition: ok
+  Current toxic weight: 25 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false, Toxic car #11
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1985
+  Condition: ok
+  Current toxic weight: 25 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false, Toxic car #12
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1985
+  Condition: ok
+  Current toxic weight: 25 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false, Toxic car #13
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1985
+  Condition: ok
+  Current toxic weight: 25 kg
+  Maximum toxic weight: 200 kg
+  Added toxic weight: 0 kg
+  Toxicity level: 0
+  Protective gear required: false]
+Locomotive #5:
+  Maximum number of wagons: 15
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 125
+  Name: EEE_LOCOMOTIVE_555
+  Base station: Nieporet
+  Source station: 
+  Destination station: Kyiv
+  Speed: 131.58179502481377 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 250 kg
+  Added wagons: 
+[Refrigerated car #1:
+  Current weight: 50 kg
+  Added weight: 10 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2000
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #2:
+  Current weight: 50 kg
+  Added weight: 10 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2000
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #3:
+  Current weight: 50 kg
+  Added weight: 10 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2000
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #4:
+  Current weight: 50 kg
+  Added weight: 10 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2000
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Refrigerated car #5:
+  Current weight: 50 kg
+  Added weight: 10 kg
+  Maximum refrigerated weight: 500 kg
+  Humidity control: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 10-10-2000
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C]
+Locomotive #23:
+  Maximum number of wagons: 70
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 75
+  Name: WWW_LOCOMOTIVE_1212
+  Base station: Kosice - Moldavska
+  Source station: 
+  Destination station: Kosice - Vyhliadka
+  Speed: 78.81808076013476 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 595 kg
+  Added wagons: 
+[Gas car #16:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 85 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 25-11-1998
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #17:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 85 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 25-11-1998
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #18:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 85 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 25-11-1998
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #19:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 85 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 25-11-1998
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #20:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 85 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 25-11-1998
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #21:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 85 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 25-11-1998
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #22:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 85 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 25-11-1998
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C]
+Locomotive #22:
+  Maximum number of wagons: 45
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 100
+  Name: VVV_LOCOMOTIVE_1111
+  Base station: Wroclaw
+  Source station: 
+  Destination station: Zakopane Kościelisko
+  Speed: 105.20858394317449 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Cargo car #7
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 25 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-06-1976
+  Condition: ok, Cargo car #8
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 25 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-06-1976
+  Condition: ok, Cargo car #9
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 25 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-06-1976
+  Condition: ok, Cargo car #10
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 25 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-06-1976
+  Condition: ok, Cargo car #11
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 25 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-06-1976
+  Condition: ok, Cargo car #12
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 25 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-06-1976
+  Condition: ok, Cargo car #13
+  Liquid type: standard
+  Tank capacity: 100 liters
+  Current amount of liquid: 25 liters
+  Chemical equipment available: false
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-06-1976
+  Condition: ok]
+Locomotive #1:
+  Maximum number of wagons: 50
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 25
+  Name: AAA_LOCOMOTIVE_111
+  Base station: Lop Buri
+  Source station: 
+  Destination station: Kyiv
+  Speed: 22.084557859445372 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Heavy car #1:
+  Maximum load weight: 0 kg
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 01-01-1990
+  Condition: ok, Heavy car #2:
+  Maximum load weight: 0 kg
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 01-01-1990
+  Condition: ok, Heavy car #3:
+  Maximum load weight: 0 kg
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 01-01-1990
+  Condition: ok, Heavy car #4:
+  Maximum load weight: 0 kg
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 01-01-1990
+  Condition: ok, Heavy car #5:
+  Maximum load weight: 0 kg
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 01-01-1990
+  Condition: ok, Heavy car #6:
+  Maximum load weight: 0 kg
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 01-01-1990
+  Condition: ok]
+Locomotive #17:
+  Maximum number of wagons: 15
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 160
+  Name: QQQ_LOCOMOTIVE_171717
+  Base station: Prague
+  Source station: 
+  Destination station: Humenne
+  Speed: 162.16493933786933 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 480 kg
+  Added wagons: 
+[Gas car #8:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 60 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 12-05-1992
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #9:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 60 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 12-05-1992
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #10:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 60 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 12-05-1992
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #11:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 60 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 12-05-1992
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #12:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 60 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 12-05-1992
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #13:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 60 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 12-05-1992
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #14:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 60 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 12-05-1992
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C, Gas car #15:
+  Gas type: null
+  Maximum pressure: 0 Pa
+  Current pressure: 0 Pa
+  Current gas weight: 60 kg
+  Added gas weight: 0 kg
+  Maximum weight: 100 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 12-05-1992
+  Condition: ok
+  Temperature: 30 C
+  Maximum temperature: 200 C]
+Locomotive #11:
+  Maximum number of wagons: 55
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 155
+  Name: KKK_LOCOMOTIVE_111111
+  Base station: Bardejov
+  Source station: 
+  Destination station: Mukachevo
+  Speed: 133.41578527279287 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Passenger car #1:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 17-02-1989
+  Condition: ok
+  Mails in the car: 5
+1 letter: 1
+2 letter: 2
+3 letter: 3
+4 letter: 4
+5 letter: 5
+, Passenger car #2:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 17-02-1989
+  Condition: ok
+  Mails in the car: 5
+1 letter: 1
+2 letter: 2
+3 letter: 3
+4 letter: 4
+5 letter: 5
+, Passenger car #3:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 17-02-1989
+  Condition: ok
+  Mails in the car: 5
+1 letter: 1
+2 letter: 2
+3 letter: 3
+4 letter: 4
+5 letter: 5
+, Passenger car #4:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 17-02-1989
+  Condition: ok
+  Mails in the car: 5
+1 letter: 1
+2 letter: 2
+3 letter: 3
+4 letter: 4
+5 letter: 5
+, Passenger car #5:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 17-02-1989
+  Condition: ok
+  Mails in the car: 5
+1 letter: 1
+2 letter: 2
+3 letter: 3
+4 letter: 4
+5 letter: 5
+, Passenger car #6:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 17-02-1989
+  Condition: ok
+  Mails in the car: 5
+1 letter: 1
+2 letter: 2
+3 letter: 3
+4 letter: 4
+5 letter: 5
+, Passenger car #7:
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 17-02-1989
+  Condition: ok
+  Mails in the car: 5
+1 letter: 1
+2 letter: 2
+3 letter: 3
+4 letter: 4
+5 letter: 5
+]
+Locomotive #13:
+  Maximum number of wagons: 40
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 60
+  Name: MMM_LOCOMOTIVE_131313
+  Base station: Bohumin
+  Source station: 
+  Destination station: Babiarova
+  Speed: 54.29209551152388 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Added wagons: 
+[Heavy car #25:
+  Maximum load weight: 0 kg
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1963
+  Condition: ok, Heavy car #26:
+  Maximum load weight: 0 kg
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1963
+  Condition: ok, Heavy car #27:
+  Maximum load weight: 0 kg
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1963
+  Condition: ok, Heavy car #28:
+  Maximum load weight: 0 kg
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1963
+  Condition: ok, Heavy car #29:
+  Maximum load weight: 0 kg
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1963
+  Condition: ok, Heavy car #30:
+  Maximum load weight: 0 kg
+  Added weight: 0 kg
+  Current weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 08-04-1963
+  Condition: ok]
+Locomotive #15:
+  Maximum number of wagons: 70
+  Maximum weight capacity: 10000 kg
+  Maximum number of wagons to connect to power: 110
+  Name: OOO_LOCOMOTIVE_151515
+  Base station: Piestany
+  Source station: 
+  Destination station: Zakopane Polana
+  Speed: 111.50991327710025 km/h
+  Max speed: 200.0 km/h
+  Fuel type: standard
+  Fuel level: 100 units
+  Added weight: 0 kg
+  Current weight: 160 kg
+  Added wagons: 
+[Explosive car #7
+  Danger level: 0
+  Current weight: 20 kg
+  Maximum amount: 200 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-09-2000
+  Condition: ok, Explosive car #8
+  Danger level: 0
+  Current weight: 20 kg
+  Maximum amount: 200 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-09-2000
+  Condition: ok, Explosive car #9
+  Danger level: 0
+  Current weight: 20 kg
+  Maximum amount: 200 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-09-2000
+  Condition: ok, Explosive car #10
+  Danger level: 0
+  Current weight: 20 kg
+  Maximum amount: 200 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-09-2000
+  Condition: ok, Explosive car #11
+  Danger level: 0
+  Current weight: 20 kg
+  Maximum amount: 200 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-09-2000
+  Condition: ok, Explosive car #12
+  Danger level: 0
+  Current weight: 20 kg
+  Maximum amount: 200 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-09-2000
+  Condition: ok, Explosive car #13
+  Danger level: 0
+  Current weight: 20 kg
+  Maximum amount: 200 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-09-2000
+  Condition: ok, Explosive car #14
+  Danger level: 0
+  Current weight: 20 kg
+  Maximum amount: 200 kg
+  Added weight: 0 kg
+  Shipper: Odessa
+  Safety information available: true
+  Net weight: 0.0 kg
+  Gross weight: 0.0 kg
+  Number of seats: 0
+  Production date: 02-09-2000
+  Condition: ok]
